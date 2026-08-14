@@ -1,4 +1,5 @@
-A Machine Learning–based diabetes prediction system built using Python and Logistic Regression. The model analyzes clinical health parameters to classify whether a patient is likely to have diabetes.
+A Machine Learning–based diabetes prediction system built using Python and Logistic Regression. 
+The model analyzes clinical health parameters to classify whether a patient is likely to have diabetes.
 
 **🚀 Features**
 Exploratory Data Analysis (EDA) – Dataset inspection, target distribution, and correlation heatmap visualization.
